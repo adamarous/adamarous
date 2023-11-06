@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on getting by the next few week of tests at school
+- 🔭 I’m currently working on getting by the next few weeks of tests at school
 - 🌱 I’m currently learning C++, data structures and algorithms
 - 👯 I’m looking to collaborate on whatever might give this poor lad a chance at suffocating from coding and not only maths
 - 🤔 I’m looking for help with pointers
